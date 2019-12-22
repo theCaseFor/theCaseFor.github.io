@@ -1,6 +1,6 @@
 <html>
   <h1 align="center">My Story</h1>
-    <body align="center">Testing</body> 
+    <center>Testing</center> 
 </html>
 
 # Contents
