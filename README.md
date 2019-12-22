@@ -6,6 +6,10 @@
 </html>
 
 ```
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
 
 <html>
   <h1 align="center">Contents</h1>
