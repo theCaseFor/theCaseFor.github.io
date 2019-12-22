@@ -1,11 +1,13 @@
+'''
 <html>
   <h1 align="center">Message From The Creator</h1>
     <center>Blah blah blah</center> 
 </html>
+'''
 
 <html>
   <h1 align="center">Contents</h1>
-  <ul>
+  <ul align="center">
     <li>The Case For Free Will</li>
     <li>The Case For Objective Reality</li>
     <li>The Case For Morality</li>
