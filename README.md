@@ -1,10 +1,9 @@
 <html>
   <h1 align="center">My Story</h1>
+    <body align="center">Testing</body> 
 </html>
 
 # Contents
-- [My Story](https://theCaseFor.github.io/test)
-
 - [The Case For Free Will](https://theCaseFor.github.io/test)
 
 - The Case For Objective Reality
