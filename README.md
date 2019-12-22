@@ -4,20 +4,16 @@
 </html>
 
 <html>
-  <h1 align="center">Center</h1>
-  - [The Case For Free Will](https://theCaseFor.github.io/test)
-
-  - The Case For Objective Reality
-
-  - The Case For Morality
-
-  - The Case For Consciousness
-
-  - The Case For Purpose
-
-  - The Case For Behaviour
-
-  - The Case For Psychedelics
+  <h1 align="center">Contents</h1>
+  <ul>
+    <li>The Case For Free Will</li>
+    <li>The Case For Objective Reality</li>
+    <li>The Case For Morality</li>
+    <li>The Case For Consciousness</li>
+    <li>The Case For Purpose</li>
+    <li>The Case For Behaviour</li>
+    <li>The Case For Psychedelics</li>
+  </ul>
  </html>
 
 <html>
