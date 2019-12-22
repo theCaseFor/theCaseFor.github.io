@@ -1,17 +1,24 @@
-# Contents
-- [The Case For Free Will](https://theCaseFor.github.io/test)
+<html>
+  <h1 align="center">Message From The Creator</h1>
+    <center>Blah blah blah</center> 
+</html>
 
-- The Case For Objective Reality
+<html>
+  <h1 align="center">Center</h1>
+  - [The Case For Free Will](https://theCaseFor.github.io/test)
 
-- The Case For Morality
+  - The Case For Objective Reality
 
-- The Case For Consciousness
+  - The Case For Morality
 
-- The Case For Purpose
+  - The Case For Consciousness
 
-- The Case For Behaviour
+  - The Case For Purpose
 
-- The Case For Psychedelics
+  - The Case For Behaviour
+
+  - The Case For Psychedelics
+ </html>
 
 <html>
   <body>
@@ -22,7 +29,4 @@
 </html>
 
 
-<html>
-  <h1 align="center">Message From The Creator</h1>
-    <center>Blah blah blah</center> 
-</html>
+
