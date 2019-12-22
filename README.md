@@ -1,3 +1,7 @@
+<html>
+  <h1>My Story</h1>
+</html>
+
 # Contents
 - [My Story](https://theCaseFor.github.io/test)
 
