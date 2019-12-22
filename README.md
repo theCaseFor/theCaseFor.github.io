@@ -1,16 +1,11 @@
 # Contents
 - [The Case For Free Will](https://theCaseFor.github.io/test)
 
-- [The Case For Objective Reality](https://github.com/contact)
+- The Case For Objective Reality
 
-- [The Case For Morality](https://github.com/contact)
+- The Case For Morality
 
 <html>
-  <form>
-    First name:<br>
-    <input type="text" name="firstname"><br>
-  </form>
-  
   <body>
     <script src="/__/firebase/7.6.1/firebase-app.js"></script>
     <script src="/__/firebase/7.6.1/firebase-analytics.js"></script>
