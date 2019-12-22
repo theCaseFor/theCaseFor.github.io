@@ -1,8 +1,3 @@
-<html>
-  <h1 align="center">~ About theCaseFor ~</h1>
-    <center>Testing</center> 
-</html>
-
 # Contents
 - [The Case For Free Will](https://theCaseFor.github.io/test)
 
@@ -24,4 +19,10 @@
     <script src="/__/firebase/7.6.1/firebase-analytics.js"></script>
     <script src="/__/firebase/init.js"></script>
   </body>
+</html>
+
+
+<html>
+  <h1 align="center">Message From The Creator</h1>
+    <center>Blah blah blah</center> 
 </html>
