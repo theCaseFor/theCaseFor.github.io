@@ -10,3 +10,8 @@
 
   <dt>Markdown in HTML</dt>
 </dl>
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
