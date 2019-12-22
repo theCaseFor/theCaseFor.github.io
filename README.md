@@ -1,5 +1,5 @@
 <html>
-  <h1>My Story</h1>
+  <h1 align="center">My Story</h1>
 </html>
 
 # Contents
