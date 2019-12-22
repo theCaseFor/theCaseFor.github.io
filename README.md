@@ -1,5 +1,5 @@
 <html>
-  <h1 align="center">My Story</h1>
+  <h1 align="center">~ About theCaseFor ~</h1>
     <center>Testing</center> 
 </html>
 
