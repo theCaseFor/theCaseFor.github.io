@@ -8,13 +8,13 @@
 <html>
   <h1 align="center">Contents</h1>
   <ul align="center">
-    <li>The Case For Free Will</li>
-    <li>The Case For Objective Reality</li>
-    <li>The Case For Morality</li>
-    <li>The Case For Consciousness</li>
-    <li>The Case For Purpose</li>
-    <li>The Case For Behaviour</li>
-    <li>The Case For Psychedelics</li>
+    <li align="center">The Case For Free Will</li>
+    <li align="center">The Case For Objective Reality</li>
+    <li align="center">The Case For Morality</li>
+    <li align="center">The Case For Consciousness</li>
+    <li align="center">The Case For Purpose</li>
+    <li align="center">The Case For Behaviour</li>
+    <li align="center">The Case For Psychedelics</li>
   </ul>
  </html>
 
