@@ -13,7 +13,7 @@ ul {
 
 <html>
   <h1 align="center">Contents</h1>
-  <ul align="center">
+  <ul text-align="center" list-style-position="inside">
     <li align="center">The Case For Free Will</li>
     <li align="center">The Case For Objective Reality</li>
     <li align="center">The Case For Morality</li>
