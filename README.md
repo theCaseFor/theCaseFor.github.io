@@ -1,4 +1,12 @@
 <html>
+  <h1 align="left">About</h1>
+  <ul style="text-align:left;padding-left:.5">
+    <li>My Reason</li>
+    <li>My Intent</li>
+  </ul>
+ </html>
+
+<html>
   <h1 align="left">Contents</h1>
   <ul style="text-align:left;padding-left:.5">
     <li>The Case For Free Will</li>
