@@ -1,6 +1,6 @@
 <html>
   <h1 align="left">Contents</h1>
-  <ul style="text-align:left;padding-left:1">
+  <ul style="text-align:left;padding-left:.5">
     <li>The Case For Free Will</li>
     <li>The Case For Objective Reality</li>
     <li>The Case For Morality</li>
