@@ -1,9 +1,10 @@
 ```
-# About the page
+I am using this page to test various forms of formatting in the best way that I possibly can
+I hope that you find this useful
 ```
 
 <html>
-  <h1 align="center">Contents</h1>
+  <h1 align="left">Contents</h1>
   <ul style="text-align:left;list-style-position:inside">
     <li>The Case For Free Will</li>
     <li>The Case For Objective Reality</li>
