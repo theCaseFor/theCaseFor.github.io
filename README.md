@@ -1,6 +1,10 @@
+```
+# About the page
+```
+
 <html>
   <h1 align="center">Contents</h1>
-  <ul style="text-align:center;list-style-position:inside">
+  <ul style="text-align:left;list-style-position:inside">
     <li>The Case For Free Will</li>
     <li>The Case For Objective Reality</li>
     <li>The Case For Morality</li>
