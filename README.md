@@ -1,8 +1,9 @@
 <html>
   <h1 align="left">About</h1>
   <ul style="text-align:left;padding-left:.5">
+    <li>My Story</li>
     <li>My Reason</li>
-    <li>My Intent</li>
+    <li>My Intention</li>
   </ul>
  </html>
 
