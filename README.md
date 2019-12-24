@@ -1,5 +1,5 @@
 <html>
-  <h1 style="font-size:14px; height:50px;">Contents</h1>
+  <h1>Contents</h1>
   <ul style="text-align:left;padding-left:.5">
     <li><a href="https://theCaseFor.github.io/test">The Case For Free Will</a></li><br>
     <li>The Case For Objective Reality</li><br>
