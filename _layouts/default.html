@@ -21,12 +21,13 @@
   </head>
   <body>
 
-    <header class="page-header" role="banner">
-    <script>
-    function getURL() {
-        alert("The URL of this page is: " + window.location.href);
-    }
-    </script>
+      <header class="page-header" role="banner">
+      <script>
+      function getURL() {
+          alert("The URL of this page is: " + window.location.href);
+      }
+      </script>
+      <button type="button" onclick="getURL();">Get Page URL</button>
       
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
