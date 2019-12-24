@@ -22,9 +22,15 @@
   <body>
 
       <header class="page-header" role="banner">
-      <script>
-        alert("Hello! I am an alert box!!");
-      </script>
+      <script type = "text/javascript">
+         <!--
+            var age = 20;
+         
+            if( age > 18 ) {
+               alert("<b>Qualifies for driving</b>");
+            }
+         //-->
+      </script>      
       
       
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
