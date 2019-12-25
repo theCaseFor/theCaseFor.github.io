@@ -27,8 +27,3 @@
     <script src="/__/firebase/init.js"></script>
   </body>
 </html>
-
-
-
-font-size:14px;
-     height:50px;
