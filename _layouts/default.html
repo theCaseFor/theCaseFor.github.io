@@ -43,10 +43,16 @@
               document.close();
             }
         
-             function changeColor() {
+            function changeColor() {
                 var element = document.getElementById("p1");
                 document.write(element.innerHTML);
              }
+        
+            if( window.location.href == "https://thecasefor.github.io/") {
+              document.open();
+              changeColor();
+              document.close();
+            }
          -->
       </script>      
       
