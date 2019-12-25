@@ -38,14 +38,13 @@
           
             if( window.location.href == "https://thecasefor.github.io/") {
               document.open();
-              document.write("<h1 id="para">theCaseFor</h1>");
-              changeColor('blue');
+              document.write("<p id="para">theCaseFor</p>");
+              changeColor();
               document.close();
             }
         
-             function changeColor(newColor) {
-                var elem = document.getElementById('para');
-                elem.style.color = newColor;
+             function changeColor() {
+                document.getElementById('test').style.color = 'red';
              }
          -->
       </script>      
