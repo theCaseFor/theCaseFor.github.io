@@ -31,7 +31,7 @@
         
             if( window.location.href == "https://thecasefor.github.io/test") {
               document.open();
-              document.write("<h1>theCaseFor:<i> Free Will</i></h1>");
+              document.write("<h1 id="para">theCaseFor:<i> Free Will</i></h1>");
               document.write(result);
               document.close();
             }
@@ -39,11 +39,18 @@
             if( window.location.href == "https://thecasefor.github.io/") {
               document.open();
               document.write("<h1>theCaseFor</h1>");
+              changeColor('blue');
               document.close();
             }
          -->
       </script>      
       
+      <script type = "text/javascript">
+        function changeColor(newColor) {
+          var elem = document.getElementById('para');
+          elem.style.color = newColor;
+        }
+      </script>   
       
       <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>-->
       page.description = "jksnfkjsdnf";
