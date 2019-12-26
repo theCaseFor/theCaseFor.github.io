@@ -15,8 +15,7 @@
   <h1 size="10" align="left">About</h1>
   <ul style="text-align:left;padding-left:.5">
     <li>My Story</li><br>
-    <li>My Reason</li><br>
-    <li>My Intention</li><br>
+    <li>Why Bother?</li><br>
   </ul>
  </html>
 
