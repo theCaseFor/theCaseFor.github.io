@@ -1,7 +1,7 @@
 <html>
   <h1>Contents</h1>
   <ul style="text-align:left;padding-left:.5">
-    <li><a href="https://theCaseFor.github.io/test">The Case For Free Will</a></li><br>
+    <li><a href="https://theCaseFor.github.io/FreeWill">The Case For Free Will</a></li><br>
     <li>The Case For Objective Reality</li><br>
     <li>The Case For Morality</li><br>
     <li>The Case For Consciousness</li><br>
