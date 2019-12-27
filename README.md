@@ -15,7 +15,7 @@
  <html>
   <h1 size="10" align="left">About</h1>
   <ul style="text-align:left;padding-left:.5">
-    <li>My Story</li><br>
+    <li><a href="https://theCaseFor.github.io/MyStory">My Story</a></li><br>
     <li>Why Bother?</li><br>
   </ul>
  </html>
