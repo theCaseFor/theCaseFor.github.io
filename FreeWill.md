@@ -1,4 +1,4 @@
-![alt text](https://theCaseFor.github.io/fw.jpg "Logo Title Text 1")
+![alt text](https://theCaseFor.github.io/fw.jpg)
 
 <html>
   <body>
