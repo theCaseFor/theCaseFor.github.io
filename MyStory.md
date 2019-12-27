@@ -1,4 +1,4 @@
-![alt text](https://theCaseFor.github.io/Universe.jpeg)
+![alt text](https://theCaseFor.github.io/Universe.jpg)
 
 
 <html>
