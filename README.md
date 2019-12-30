@@ -1,4 +1,15 @@
 <html>
+  <HEAD>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155167383-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155167383-1');
+</script>  
+  </HEAD>
   <h1>Contents</h1>
   <ul style="text-align:left;padding-left:.5">
     <li><a href="https://theCaseFor.github.io/FreeWill">The Case For Free Will</a></li><br>
