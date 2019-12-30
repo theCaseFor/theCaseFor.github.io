@@ -37,9 +37,9 @@
     <script src="/__/firebase/7.6.1/firebase-analytics.js"></script>
     <script src="/__/firebase/init.js"></script>
   <h1 size="10" align="left">Inquires?</h1>  
-  <form style="background-color:#EEEEEE; width: 600px; height: 380px; margin-left: 50px;" name="input" method="POST" action="https://formspree.io/thecase4existence@gmail.com">
-       &nbsp;Name: <input style="width: 295px; margin-left: 40px;" type="text" name="Name" placeholoder="Your name"><br><br>
-       &nbsp;Email:  <input style="width: 300px; margin-left: 40px;" type="email" name="Name" placeholoder="Your name"><br><br>
+  <form style="width: 600px; height: 380px; margin-left: 50px;" name="input" method="POST" action="https://formspree.io/thecase4existence@gmail.com">
+       &nbsp;Name: <input style="width: 280px; margin-left: 40px;" type="text" name="Name" placeholoder="Your name"><br><br>
+       &nbsp;Email:  <input style="width: 290px; margin-left: 40px;" type="email" name="Name" placeholoder="Your name"><br><br>
        &nbsp;Message: <textarea style="width: 450px; margin-top: -20px; margin-left: 90px;" name="message" placeholoder="Your name"></textArea><br><br>
     <input valign="center" align="center" type="submit" value="Submit">
     <input type="hidden" name="_subject" value="Enter your subject here"/>
