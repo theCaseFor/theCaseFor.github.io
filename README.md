@@ -37,10 +37,10 @@
     <script src="/__/firebase/7.6.1/firebase-analytics.js"></script>
     <script src="/__/firebase/init.js"></script>
     
-   <form name="input" method="POST" action="https://formspree.io/thcase4existence@gmail.com">
+   <form name="input" method="POST" action="https://formspree.io/thecase4existence@gmail.com">
     Name: <input type="text" name="Name" placeholoder="Your name">
-    Name: <input type="text" name="Name" placeholoder="Your name">
-    Name: <input type="text" name="Name" placeholoder="Your name">
+    Email: <input type="email" name="Name" placeholoder="Your name">
+    Message: <textarea name="message" placeholoder="Your name"></textArea>
     <input type="submit" value="Send">
     <input type="hidden" name="_subject" value="Enter >
     </form>
