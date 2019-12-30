@@ -38,9 +38,9 @@
     <script src="/__/firebase/init.js"></script>
     
    <form name="input" method="POST" action="https://formspree.io/thecase4existence@gmail.com">
-    Name: <input type="text" name="Name" placeholoder="Your name"><br><br>
-    Email: <input type="email" name="Name" placeholoder="Your name"><br><br>
-    Message: <textarea name="message" placeholoder="Your name"></textArea>
+    Name:<br> <input type="text" name="Name" placeholoder="Your name"><br><br>
+    Email:<br> <input type="email" name="Name" placeholoder="Your name"><br><br>
+    Message:<br> <textarea name="message" placeholoder="Your name"></textArea>
     <input type="submit" value="Send">
     <input type="hidden" name="_subject" value="Enter your subject here"/>
     <input type="hidden" name="_next" value="done"/>
