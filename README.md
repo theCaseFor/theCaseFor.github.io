@@ -40,7 +40,7 @@
   <form style="background-color:#EEEEEE; width: 600px; height: 250px" name="input" method="POST" action="https://formspree.io/thecase4existence@gmail.com">
        Name: <input style="width: 300px;" type="text" name="Name" placeholoder="Your name"><br><br>
        Email:  <input style="width: 310px;" type="email" name="Name" placeholoder="Your name"><br><br>
-       Message: <br><br><textarea style="width: 550px; border-top: 50px; border-bottom: 50px;" name="message" placeholoder="Your name"></textArea><br><br>
+       Message: <br><br><textarea style="width: 550px; margin-top: 50px; margin-bottom: 50px;" name="message" placeholoder="Your name"></textArea><br><br>
     <input valign="center" type="submit" value="Submit">
     <input type="hidden" name="_subject" value="Enter your subject here"/>
     <input type="hidden" name="_next" value="done"/>
