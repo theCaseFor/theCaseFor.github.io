@@ -56,7 +56,7 @@
 
    <script>
    const commentBox = require('commentbox.io');
-   commentBox('5770213651906560-proj');   
+   commentBox('5770213651906560');   
    </script>
   
  </html>
