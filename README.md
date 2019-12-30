@@ -36,5 +36,10 @@
     <script src="/__/firebase/7.6.1/firebase-app.js"></script>
     <script src="/__/firebase/7.6.1/firebase-analytics.js"></script>
     <script src="/__/firebase/init.js"></script>
+    
+   <form name="input" method="POST" action="https://theCaseFor.io/thcase4existence@gmail.com">
+    Name: <input type="text" name="Name" placeholoder="Your name">
+    <input type="submit" value="Send">
+    </form>
   </body>
 </html>
