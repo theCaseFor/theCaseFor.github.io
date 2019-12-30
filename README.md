@@ -47,3 +47,19 @@
     </form>
   </body>
 </html>
+
+
+ <html>
+    <div class="commentbox">
+    </div>
+   <script>
+   import commentBox from 'commentbox.io';
+// or
+const commentBox = require('commentbox.io');
+// or if using the CDN, it will be available as a global "commentBox" variable.
+
+commentBox('5770213651906560-proj');   
+   </script>
+  
+ </html>
+
