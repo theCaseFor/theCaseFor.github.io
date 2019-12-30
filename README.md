@@ -39,7 +39,7 @@
   <h1 size="10" align="left">Inquires?</h1>  
   <form style="width: 600px; height: 380px; margin-left: 50px;" name="input" method="POST" action="https://formspree.io/thecase4existence@gmail.com">
        &nbsp;Name: <input style="width: 280px; margin-left: 32px;" type="text" name="Name" placeholoder="Your name"><br><br>
-       &nbsp;Email:  <input style="width: 280px; margin-left: 35px;" type="email" name="Name" placeholoder="Your name"><br><br>
+       &nbsp;Email:  <input style="width: 280px; margin-left: 36px;" type="email" name="Name" placeholoder="Your name"><br><br>
        &nbsp;Message: <textarea style="width: 450px; margin-top: -20px; margin-left: 95px;" name="message" placeholoder="Your name"></textArea><br><br>
     <input valign="center" align="center" type="submit" value="Submit">
     <input type="hidden" name="_subject" value="Enter your subject here"/>
