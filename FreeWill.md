@@ -28,7 +28,7 @@
    database = firebase.database();
    
    var ref = database.ref('thecasefor-76e17');
-   var key = rootRef.key;  // key === null
+   var key = ref.key;  // key === null
    console.log(key);
    
    function gotData(data) {
