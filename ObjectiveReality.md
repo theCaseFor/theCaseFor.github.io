@@ -10,12 +10,11 @@
   </body>
   
   <!-- put this wherever you want your comment box to show up -->
-  <div class="commentbox"></div>
-
-  <script>
-  import commentBox from 'commentbox.io'; // also available on CDN
+  <div class="commentbox">
+      import commentBox from 'commentbox.io'; // also available on CDN
   commentBox('5714728378695680-proj');
-  </script>
+    </div>
+
 </html>
 
 
