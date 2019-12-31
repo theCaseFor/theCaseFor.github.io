@@ -33,9 +33,9 @@
    
    var leadsRef = database.ref('leads');
    leadsRef.on('value', function(snapshot) {
-  snapshot.forEach(function(childSnapshot) {
-    var childData = childSnapshot.val();
-    console.log(
+    snapshot.forEach(function(childSnapshot) {
+      var childData = childSnapshot.val();
+      console.log()
   });
 });
 
