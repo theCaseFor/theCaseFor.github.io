@@ -7,13 +7,11 @@
     </p>
   
   <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+
   <div class="commentbox"></div> 
   
   <script>
     import commentBox from 'commentbox.io';
-  // or
-  const commentBox = require('commentbox.io');
-  // or if using the CDN, it will be available as a global "commentBox" variable.
 
   commentBox('5714728378695680-proj');
   </script>
