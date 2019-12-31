@@ -35,7 +35,7 @@
    leadsRef.on('value', function(snapshot) {
     snapshot.forEach(function(childSnapshot) {
       var childData = childSnapshot.val();
-      console.log()
+      console.log(childData)
   });
 });
 
