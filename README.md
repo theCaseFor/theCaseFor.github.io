@@ -1,3 +1,5 @@
+
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
 <script>
   import commentBox from 'commentbox.io'; // also available on CDN
   commentBox('5714728378695680-proj');
