@@ -10,7 +10,7 @@
 <!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-app.js"></script>
   
-  <script src="/__/firebase/init.js"></script>
+
   <script>
   const firebaseConfig = {
   apiKey: "AIzaSyCvQ4Wu4KmempLN6hNDxbCT3WQhJo6UR84",
@@ -24,7 +24,6 @@
 };
   
    firebase.initializeApp(firebaseConfig);
-   firebase.analytics();
    database = firebase.database();
    
    var ref = database.ref('thecasefor-76e17');
