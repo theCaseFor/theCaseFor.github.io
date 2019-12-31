@@ -31,7 +31,7 @@
    ref.on('value', gotData, errData);
    
    function gotData(data) {
-    console.log(data);
+    console.log(data.val());
    
    }
    
