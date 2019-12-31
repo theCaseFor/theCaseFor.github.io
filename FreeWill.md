@@ -26,10 +26,7 @@
   
    firebase.initializeApp(firebaseConfig);
    database = firebase.database();
-   
-   var ref = database.ref('thecasefor-76e17');
-   var key = ref.key;  // key === null
-   console.log(key);
+  
    
    var leadsRef = database.ref('leads');
    leadsRef.on('value', function(snapshot) {
