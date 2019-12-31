@@ -28,7 +28,7 @@
    database = firebase.database();
    
    var ref = database.ref('thecasefor-76e17');
-   red.on('value', gotData, errData);
+   ref.on('value', gotData, errData);
    
    function gotData(data) {
     console.log(data);
