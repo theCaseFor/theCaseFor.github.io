@@ -50,13 +50,14 @@
 
 
  <html>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
     <div class="commentbox">
     </div>
-   <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+   
 
    <script>
    const commentBox = require('commentbox.io');
-   commentBox('5770213651906560');   
+   commentBox('5714728378695680-proj');   
    </script>
   
  </html>
