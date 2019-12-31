@@ -11,11 +11,13 @@
   
   <!-- put this wherever you want your comment box to show up -->
   <div class="commentbox">
-      import commentBox from 'commentbox.io'; // also available on CDN
-  commentBox('5714728378695680-proj');
-    </div>
+  </div>
 
 </html>
 
+<script>
+  const commentBox = require('commentbox.io');
 
+commentBox('5714728378695680-proj');
+  
 
