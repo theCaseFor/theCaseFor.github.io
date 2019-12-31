@@ -28,7 +28,7 @@
    database = firebase.database();
   
    
-   var leadsRef = database.ref('leads');
+   var leadsRef = database.ref('thecasefor-76e17');
    leadsRef.on('value', function(snapshot) {
     snapshot.forEach(function(childSnapshot) {
       var childData = childSnapshot.val();
