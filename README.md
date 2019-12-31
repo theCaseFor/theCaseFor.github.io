@@ -1,3 +1,8 @@
+<script>
+  import commentBox from 'commentbox.io'; // also available on CDN
+  commentBox('5714728378695680-proj');
+</script>
+
 <html>
   <HEAD>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -54,5 +59,3 @@
   
  </html>
 
-import commentBox from 'commentbox.io'; // also available on CDN
-commentBox('5714728378695680-proj');
