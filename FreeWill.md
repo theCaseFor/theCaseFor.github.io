@@ -31,15 +31,14 @@
    var key = ref.key;  // key === null
    console.log(key);
    
-   function gotData(data) {
-    console.log(data.val());
-      
-   }
-   
-   function errData(err) {
-    console.log('Error!');
-    console.log(err);
-   }
+   var leadsRef = database.ref('leads');
+   leadsRef.on('value', function(snapshot) {
+  snapshot.forEach(function(childSnapshot) {
+    var childData = childSnapshot.val();
+    console.log(
+  });
+});
+
 
   </script>
   </body>
