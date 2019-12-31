@@ -7,37 +7,13 @@
     
       <!-- Insert these scripts at the bottom of the HTML, but before you use any Firebase services -->
 
-<!-- The core Firebase JS SDK is always required and must be listed first -->
-<script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-auth.js"></script>
-<script src="https://www.gstatic.com/firebasejs/7.6.1/firebase-database.js"></script> 
+    <!-- begin wwww.htmlcommentbox.com -->
+ <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
+ <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+ <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%2474Xi6S4kGidvwL8ZB4hSD."+"&opts=16862&num=10&ts=1577810820501");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end www.htmlcommentbox.com -->
 
-  <script>
-  const firebaseConfig = {
-  apiKey: "AIzaSyCvQ4Wu4KmempLN6hNDxbCT3WQhJo6UR84",
-  authDomain: "thecasefor-76e17.firebaseapp.com",
-  databaseURL: "https://thecasefor-76e17.firebaseio.com",
-  projectId: "thecasefor-76e17",
-  storageBucket: "thecasefor-76e17.appspot.com",
-  messagingSenderId: "605102672792",
-  appId: "1:605102672792:web:303349504e72acad6eb9ed",
-  measurementId: "G-QRT72QY1FN"
-};
-  
-   firebase.initializeApp(firebaseConfig);
-   database = firebase.database();
-  
-   
-   var leadsRef = database.ref('thecasefor-76e17');
-   leadsRef.on('value', function(snapshot) {
-    snapshot.forEach(function(childSnapshot) {
-      var childData = childSnapshot.val();
-      console.log(childData)
-  });
-});
- 
 
-  </script>
   </body>
 </html>
 
