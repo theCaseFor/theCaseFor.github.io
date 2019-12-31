@@ -28,11 +28,12 @@
    database = firebase.database();
    
    var ref = database.ref('thecasefor-76e17');
-   ref.on('value', gotData, errData);
+   var key = rootRef.key;  // key === null
+   console.log(key);
    
    function gotData(data) {
     console.log(data.val());
-   
+      
    }
    
    function errData(err) {
