@@ -1,4 +1,4 @@
-![alt text](https://theCaseFor.github.io/morality.jpeg)
+![alt text](https://theCaseFor.github.io/morality2.jpeg)
 
 <html>
   <body>
